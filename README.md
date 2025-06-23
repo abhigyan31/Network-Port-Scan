@@ -1,5 +1,5 @@
 # Network Port Scan – Internship Task 1
-
+<img src="Screenshots/nps.png" alt="nps" width="666"/>
 This repository contains the work for Task 1 of my cybersecurity internship. The task involved scanning a local network to identify active hosts and open TCP ports.
 
 ## 🔧 Tools Used

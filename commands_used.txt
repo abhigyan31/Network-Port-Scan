@@ -1,0 +1,4 @@
+sudo apt update && sudo apt install nmap -y
+ip a
+sudo nmap -sS 192.168.121.0/24
+sudo nmap -sS 192.168.121.0/24 -oN scan_results.txt

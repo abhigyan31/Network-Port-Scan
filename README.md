@@ -4,7 +4,7 @@ This repository contains the work for Task 1 of my cybersecurity internship. The
 
 ## 🔧 Tools Used
 - Kali Linux (VMware)
-- Nmap
+- Nma
 
 ## 🧩 Task Steps
 1. Installed Nmap
